@@ -13,4 +13,5 @@ public class Calculator{
     public static int multiplicacao(int x, int y){
         return x * y;
     }
+    public Calculator(){}
 }
